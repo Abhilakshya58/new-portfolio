@@ -1,3 +1,3 @@
 # new-portfolio
 new-portfolio
-[Live Demo](https://github.com/Abhilakshya58/new-portfolio.git)
+[Live Demo](https://abhilakshya58.github.io/new-portfolio/)
